@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body { 
+    background-image: url(https://images3.alphacoders.com/118/1185634.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; );
+    background-color: #000000;
+	font-family: 'IBM Plex Sans Arabic', sans-serifs;}
+
+.VIDEO {margin: auto; width: 720px; height: 415px; border: 1px solid rgb(255, 255, 255); }
+
+.SONIDO {margin: auto;border: 2px solid rgb(255, 255, 255); width: 720px;}
+
+h1 {text-align: center; margin: auto; width: 720px; font-family: font-family: 'Bangers', cursive;color: rgb(255, 255, 255); 
+    font-family: 'Bangers', cursive;font-size: 50px; padding: 20px ;}
+
+
+p {text-align: center; color: rgb(255, 255, 255); font-family: 'Bangers', cursive;font-size: 50px; margin: auto;
+    width:50%; padding: 20px;}
+
+.barra {font-family: 'Bangers', cursive; color: rgb(255, 255, 255);margin: auto;width: 50%; text-align: center; padding: 10px; padding-bottom: 20px; font-size: 25px;}
